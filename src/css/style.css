@@ -1,12 +1,11 @@
 main {
-    font-family: "Roboto", serif;
+    font-family: 'Outfit', sans-serif;;
     background-color: hsl(212, 45%, 89%);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    position: relative;
 }
 .container {
     background-color: #ffffff;
