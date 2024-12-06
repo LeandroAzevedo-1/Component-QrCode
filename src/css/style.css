@@ -1,0 +1,31 @@
+main {
+    font-family: "Roboto", serif;
+    background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    background-color: #ffffff;
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.container .image-qrcode {
+    width: 100%;
+    border-radius: 10px;
+}
+.container .conteudo {
+    text-align: center;
+    margin: 30px;
+}
+.conteudo h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.conteudo p {
+    color: hsl(216, 15%, 48%);
+    font-size: 14px;
+}
