@@ -6,16 +6,19 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 .container {
     background-color: #ffffff;
     width: 350px;
     padding: 20px;
     border-radius: 10px;
+    margin-bottom: 100px;
 }
 .container .image-qrcode {
     width: 100%;
     border-radius: 10px;
+
 }
 .container .conteudo {
     text-align: center;
@@ -28,7 +31,4 @@ main {
 .conteudo p {
     color: hsl(216, 15%, 48%);
     font-size: 14px;
-}
-.attribution {
-    margin-top: 140px;
 }
