@@ -32,7 +32,7 @@ O objetivo é construir um componente que segue o design proposto, utilizando bo
 
 <img src="./src/design/desktop-design.jpg">
 
-Acesse a página online: [Live Demo](#).
+Acesse a página online: [Live Demo](https://leandroazevedo-1.github.io/Component-QrCode/).
 
 
 
